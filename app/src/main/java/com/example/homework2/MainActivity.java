@@ -33,6 +33,8 @@ import java.net.MalformedURLException;
 import java.net.URISyntaxException;
 import java.util.ArrayList;
 
+//Adrian Yu
+
 public class MainActivity extends AppCompatActivity {
     LoaderCallbackInterface loaderCallbackInterface = new LoaderCallbackInterface() {
         @Override
